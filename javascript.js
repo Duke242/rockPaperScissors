@@ -40,6 +40,6 @@ const computerChoice = getComputerChoice()
 
 } 
 
-var messageToTheUser = "Make you selection."
+var messageToTheUser = "Make your selection."
 
 prompt(messageToTheUser)
